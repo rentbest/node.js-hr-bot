@@ -1,0 +1,5 @@
+# Directory modules
+node_modules/
+
+# File with keys
+*.env
